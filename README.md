@@ -1,4 +1,4 @@
-## 📘 Pełny poradnik
+## 📘 Instalacja serwera velocity
 
 👉 PEŁNY PORADNIK DOSTĘPNY NIŻEJ W FORMIE STRONY :)
 
